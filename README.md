@@ -12,7 +12,7 @@ This project is collaborative of [Taha Braymi](https://github.com/shwanthefows) 
 Clone the repository including the MiniLibX submodule:
 
 ```shell
-git clone --recursive https://github.com/HYYPNNOSS/Graphic-3d-Raycasting.git
+git clone https://github.com/HYYPNNOSS/Graphic-3d-Raycasting.git
 ```
 
 ## Compile and Run
